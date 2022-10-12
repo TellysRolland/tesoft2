@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0-rc.2.21480.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TeSoft.Api.API.Common\TeSoft.Api.API.Common.csproj" />
+    <ProjectReference Include="..\TeSoft.Api.Services.Contracts\TeSoft.Api.Services.Contracts.csproj" />
+    <ProjectReference Include="..\TeSoft.Api.Services.Model\TeSoft.Api.Services.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "umsmJIhRsb7FM9wI5bxmsBqwBsY/8apJk1WOuVZ/GUi2Zkh+gJMELQxMsHh63LwMQyLNidQhYgfRV+N7AHfOCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rolland\\Source\\Repos\\tesoft2\\TeSoft.Api\\TeSoft.Api\\TeSoft.Api.API.DataContracts\\TeSoft.Api.API.DataContracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolland\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.jsonpatch.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\rolland\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.0-rc.2.21480.10\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.0-rc.2.21480.10.nupkg.sha512",
+    "C:\\Users\\rolland\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\rolland\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rolland\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
